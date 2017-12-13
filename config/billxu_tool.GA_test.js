@@ -4,7 +4,7 @@
  * @author Pudding 20170203
  */
 
-GA_TRACE_CODE = "UA-89833109-5";
+GA_TRACE_CODE = "UA-111218831-1";
         
 var _local_debug = false;
 
