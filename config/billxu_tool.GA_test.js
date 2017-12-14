@@ -6,7 +6,7 @@
 
 GA_TRACE_CODE = "UA-111218831-1";
         
-var _local_debug = False;
+var _local_debug = true;
 
 if (_local_debug === true) {
     CSS_URL = "https://github.com/NowUsEe/GA-project/blob/master/config/billxu_tool.GA_test.css";
