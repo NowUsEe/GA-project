@@ -10,7 +10,7 @@ var _local_debug = true;
 
 if (_local_debug === true) {
     CSS_URL = "https://nowusee.github.io/GA-project/config/billxu_tool.GA_test.css";
-    LIB_URL = "https://nowusee.github.io/GA-project/config/billxu_tool.GA_test.js";
+    LIB_URL = "https://nowusee.github.io/GA-project/config/ga_inject_lib";
     console.log("[LOCAL TEST MODE]");
 }
 else {
